@@ -2779,4 +2779,5 @@ DanyLeeCS
 - [Sush Mullur](https://github.com/sushmullur)
 - Benjamin Jones
 - Munendra Choudhary 
--[Vedant Raj Singh Parmar](github.com/VVR6)
+
+- [Vedant Raj Singh Parmar](github.com/VVR6)
